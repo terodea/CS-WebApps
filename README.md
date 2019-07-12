@@ -5,6 +5,7 @@ I have always wanted to develop complete ML,DL applications where i would have a
 
 ## Projects :
 ### Machine Learning Models : 
+
 **Topic 1 :** 
     - [ Bayseian Network Model ], [ Probabilistics Graph Models ], [ Root Cause Analysis ]
 
@@ -13,12 +14,16 @@ I have always wanted to develop complete ML,DL applications where i would have a
 
 
 ### Deep Learning Models : 
+
 **Topic 1 :**
     - [ Mobile App ], [ Music Recommendation ]
+
 **Topic 2 :**
     - [ Keras ], [ GAN's ]
+
 **Topic 3 :**
     - [ PyTorch ], [ XLNet ]
+
 **Topic 4 :**
     - [ OpenCV ] , [ Bert ], [ Transfer Learning ]
 
