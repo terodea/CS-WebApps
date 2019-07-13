@@ -6,8 +6,8 @@ I have always wanted to develop complete ML,DL applications where i would have a
 ## Projects :
 ### Machine Learning Models : 
 
-**Topic 1 :** 
-    - [ Bayseian Network Model ], [ Probabilistics Graph Models ], [ Root Cause Analysis ]
+**Topic 1 :** <br />
+- [ Bayseian Network Model ], [ Probabilistics Graph Models ], [ Root Cause Analysis ]
 
 **Topic 2 :** 
     - [ Supervised Learning ], [ XGBoost ], [ EnSemble Modeling]
