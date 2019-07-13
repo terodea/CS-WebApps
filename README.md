@@ -9,23 +9,29 @@ I have always wanted to develop complete ML,DL applications where i would have a
 **Topic 1 :** <br />
 - [ Bayseian Network Model ], [ Probabilistics Graph Models ], [ Root Cause Analysis ]
 
-**Topic 2 :** 
-    - [ Supervised Learning ], [ XGBoost ], [ EnSemble Modeling]
+**Topic 2 :** <br />
+- [ Supervised Learning ], [ XGBoost ], [ EnSemble Modeling]
+
+**Topic 3:** <br />
+- [ Cascade Modeling ]
+
+**Topic 4:** <br />
+- [ Stacking Modeling ]
 
 
 ### Deep Learning Models : 
 
-**Topic 1 :**
-    - [ Mobile App ], [ Music Recommendation ]
+**Topic 1 :** <br />
+- [ Mobile App ], [ Music Recommendation ]
 
-**Topic 2 :**
-    - [ Keras ], [ GAN's ]
+**Topic 2 :**<br />
+- [ Keras ], [ GAN's ]
 
-**Topic 3 :**
-    - [ PyTorch ], [ XLNet ]
+**Topic 3 :**<br />
+- [ PyTorch ], [ XLNet ]
 
-**Topic 4 :**
-    - [ OpenCV ] , [ Bert ], [ Transfer Learning ]
+**Topic 4 :**<br />
+- [ OpenCV ] , [ Bert ], [ Transfer Learning ]
 
 #### Technologies : 
 
