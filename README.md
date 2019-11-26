@@ -133,6 +133,6 @@ Below is the  template to be followed for each project
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 ```
-Inspired By : [Cookiecutter](https://drivendata.github.io/cookiecutter-data-science/s)
+Inspired By : [Cookiecutter](https://drivendata.github.io/cookiecutter-data-science/)
 
 **NOTE:** Each project is a deployment ready code in itself, hence the makefile and other production support files will be present in each project acordingly. 
